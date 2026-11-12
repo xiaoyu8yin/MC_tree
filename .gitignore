@@ -1,0 +1,6 @@
+work/
+outputs/
+__pycache__/
+.venv/
+data/verified.jar
+.env
